@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey there! 👋 I'm Euclid Jan Guillermo
 
-<!--
-**Aethereux/Aethereux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my corner of the coding universe! 🌌 I'm thrilled to have you here. Allow me to introduce myself:
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ I'm Euclid Jan Guillermo, an **18-year-old** from the Makati City, Philippines.
+
+ Currently, I'm studying at **iACADEMY**, where taking the course of **BS Computer Science Major in Software Engineering**. 
+
+## Aspirations
+
+My big goal? Well, I'm all about becoming a **Full Stack Developer**. I'm super excited about coding from front to back, and I'm working hard to build up my skills in both web development and software engineering
+
