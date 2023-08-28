@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Euclid Jan Guillermo
 
-Welcome to my corner of the coding universe! 🌌 I'm thrilled to have you here. Allow me to introduce myself:
+Welcome!
 
 ## About Me
 
