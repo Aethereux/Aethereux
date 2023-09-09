@@ -1,7 +1,4 @@
-# Hey there! 👋 I'm Euclid Jan Guillermo
-
-Welcome!
-
+# Hey there! 👋
 ## About Me
 
  I'm Euclid Jan Guillermo, an **18-year-old** from the Makati City, Philippines.
