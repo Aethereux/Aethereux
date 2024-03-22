@@ -7,4 +7,4 @@ Welcome to my GitHub profile! I'm a aspiring Software Engineer.
 - I'm currently learning C++.
 - I study at iACADEMY Nexus in the Philippines
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aethereux&show_icons=true&theme=radical)
