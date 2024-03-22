@@ -1,5 +1,10 @@
-## Hey there! 👋
+# Hello, I'm Euclid! 👋
 
- I'm Euclid Jan Guillermo, an **18-year-old** from the Makati City, Philippines.
+Welcome to my GitHub profile! I'm a aspiring Software Engineer.
 
- Currently, I'm studying at **iACADEMY**, where im taking the course of **BS Computer Science Major in Software Engineering**. 
+## About Me
+
+- I'm currently learning C++.
+- I study at iACADEMY Nexus in the Philippines
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[Your GitHub Username]&show_icons=true&theme=radical)
