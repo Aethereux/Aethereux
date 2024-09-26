@@ -1,12 +1,12 @@
 
-# Hello, I'm Euclid! 👋
 
-Welcome to my GitHub profile! I'm an aspiring Software Engineer.
+# Hi, I'm Euclid! 👋
+
+I'm an aspiring software engineer studying at iACADEMY Nexus in the Philippines.
 
 ## About Me
 
-- I have learned C++.
-- I'm currently Learning Reverse Engineering, Java, and Objective-C/C++.
-- I study at iACADEMY Nexus in the Philippines.
+- **Languages I Know**: C++
+- **Currently Learning**: Reverse engineering, Java, Objective-C/C++
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aethereux&show_icons=true&theme=radical)
