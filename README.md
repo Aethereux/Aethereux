@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Euclid! 👋
+# Hi, I'm Eux! 👋
 
 I'm an aspiring software engineer studying at iACADEMY Nexus in the Philippines.
 
